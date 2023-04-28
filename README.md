@@ -20,3 +20,9 @@ Press OK.
 <div align="center">
     <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181196927-19a0cb10-dd57-4034-9b86-6b8f6a0dda0a.png" />
 </div>
+
+macOS
+Switch to Finder
+Press ⌘ + Shift + G
+Type ~/Library/Application Support/minecraft
+Press Go
