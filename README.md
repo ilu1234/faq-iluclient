@@ -37,3 +37,7 @@ On Linux, the Minecraft data folder is located in ~/.minecraft.
 <h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 3</h3>
 
 Open the logs folder inside the .minecraft folder.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181198699-4ee39967-623b-4432-9228-205cea54f51b.png" />
+</div>
