@@ -49,3 +49,15 @@ In the Logs folder, scroll down and find a file called latest or latest.log. Dou
 <div align="center">
     <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181199377-1e6af9d2-4495-44da-a2f6-8ffbbb0ed040.png" />
 </div>
+
+<h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 5</h3>
+
+Select the entire contents (Ctrl+A or ⌘+A) of the file and copy it (Ctrl+C or ⌘+C).
+
+<h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 6</h3>
+
+Open mclo.gs and paste (Ctrl+V or ⌘+V) the contents into the largest field.
+
+<h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 7</h3>
+
+Press 💾 Save and on the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
