@@ -28,7 +28,7 @@ Type ~/Library/Application Support/minecraft
 Press Go
 
 <div align=center>
-    <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181197786-e8c83bb0-54a7-42ed-8ea9-3c7987d3b3aa.png" />
+    <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181199377-1e6af9d2-4495-44da-a2f6-8ffbbb0ed040.png" />
 </div>
 
 Linux
@@ -40,4 +40,12 @@ Open the logs folder inside the .minecraft folder.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181198699-4ee39967-623b-4432-9228-205cea54f51b.png" />
+</div>
+
+<h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 4</h3>
+
+In the Logs folder, scroll down and find a file called latest or latest.log. Double click the file to open it in Notepad.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181199377-1e6af9d2-4495-44da-a2f6-8ffbbb0ed040.png" />
 </div>
