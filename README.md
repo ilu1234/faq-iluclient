@@ -26,3 +26,7 @@ Switch to Finder
 Press ⌘ + Shift + G
 Type ~/Library/Application Support/minecraft
 Press Go
+
+<div align=center>
+    <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181197786-e8c83bb0-54a7-42ed-8ea9-3c7987d3b3aa.png" />
+</div>
