@@ -4,11 +4,11 @@ The latest log begins logging after Minecraft successfuly launches. Sometimes er
 
 # Instructions
 
-Step 1
+<h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 1</h3>
 
 Start Minecraft and run it to the point where the crash/error occurs. Then close Minecraft and keep it closed.
 
-Step 2
+<h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 2</h3>
 
 Locate your .minecraft folder. The process is different whether you’re using Windows, macOS or Linux.
 
@@ -30,3 +30,10 @@ Press Go
 <div align=center>
     <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181197786-e8c83bb0-54a7-42ed-8ea9-3c7987d3b3aa.png" />
 </div>
+
+Linux
+On Linux, the Minecraft data folder is located in ~/.minecraft.
+
+<h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 3</h3>
+
+Open the logs folder inside the .minecraft folder.
