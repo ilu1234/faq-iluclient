@@ -16,3 +16,7 @@ Windows
 Press ⊞ Win + R
 Type %appdata%\.minecraft
 Press OK.
+
+<div align="center">
+    <a href=["https://discord.gg/bBGQZvd](https://discord.gg/qCAByrKvah)"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
+</div>
