@@ -60,4 +60,4 @@ Open mclo.gs and paste (Ctrl+V or ⌘+V) the contents into the largest field.
 
 <h3 class="md-h3"><a href="#step-3" id="step-3" class="md-h-a md-a"></a>Step 7</h3>
 
-Press 💾 Save and on the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
+Press 💾 Save and on the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instruction.
