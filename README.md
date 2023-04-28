@@ -18,5 +18,5 @@ Type %appdata%\.minecraft
 Press OK.
 
 <div align="center">
-    <img src="https://img.shields.io/discord/689197705683140636?logo=discord" />
+    <img src="https://raw.githubusercontent.com/ilu1234/faq-iluclient/main/181196927-19a0cb10-dd57-4034-9b86-6b8f6a0dda0a.png" />
 </div>
